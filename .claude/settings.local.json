@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "WebFetch(domain:generativelanguage.googleapis.com)",
+      "Bash(powershell -Command \":*)",
+      "Bash(powershell -File:*)",
+      "Bash(powershell -Command \"[System.Environment]::GetFolderPath\\(''Desktop''\\)\")"
+    ]
+  }
+}
