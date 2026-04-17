@@ -6,6 +6,12 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["serve", ".", "-l", "5173"],
       "port": 5173
+    },
+    {
+      "name": "Indian Market Advisor",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev:market"],
+      "port": 5174
     }
   ]
 }
